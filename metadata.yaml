@@ -1,0 +1,30 @@
+_repo: Greek-Lands-and-Letters_67984
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Allinson, Anne Crosby Emery
+    gutenberg_agent_id: '54562'
+    url: http://www.gutenberg.org/2009/agents/54562
+  - agent_name: Allinson, Francis Greenleaf
+    gutenberg_agent_id: '54561'
+    url: http://www.gutenberg.org/2009/agents/54561
+description: ''
+gutenberg_issued: '2022-05-03'
+identifiers:
+  gutenberg: '67984'
+language: en
+pgterms:marc904: https://archive.org/details/greeklandsletter00alli_0
+pgterms:marc905: 20200913081843allinson
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: KD Weeks, Tim Lindell, Turgut Dincer and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :Houghton Mifflin Co.,1909.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Greek Lands and Letters
+url: http://www.gutenberg.org/ebooks/67984
